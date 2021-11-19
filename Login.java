@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Login {//Task Performance
+public class Login {//Task Performance for Computer Programming 2
 
     private static Scanner x;
 
